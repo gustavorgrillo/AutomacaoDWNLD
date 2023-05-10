@@ -1,0 +1,11 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\bin\Debug\downloadauto.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\bin\Debug\downloadauto.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\bin\Debug\downloadauto.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.Form1.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Nova pasta (3)\downloadauto\downloadauto\obj\Debug\downloadauto.pdb
